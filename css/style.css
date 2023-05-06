@@ -1110,7 +1110,7 @@ span + .edit-link:before,
 .page-content {
 	/**--ChaosKIDs--**/ 
 	margin: 0 auto;
-	max-width: 90%;
+	max-width: 80%;
 }
 
 .page-content {
@@ -1142,6 +1142,7 @@ a.post-thumbnail:hover {
 	height: 280px;
 	width: 100%;
 	object-fit:cover;
+	object-position:center middle;
 }
 
 
